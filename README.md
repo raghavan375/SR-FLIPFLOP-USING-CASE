@@ -58,9 +58,9 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 
 ```
-Developed by: AMIRTHA VARSHINI M
+Developed by: THIRAVIA RAJA RAGHAVAN G
 
-RegisterNumber:212224230017
+RegisterNumber:212224050055
 ```
 
 **RTL LOGIC FOR FLIPFLOPS**
